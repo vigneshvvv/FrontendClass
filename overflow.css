@@ -1,0 +1,32 @@
+.sampleOverflow{
+    width: 200px;
+    height: 100px;
+    background-color: cornflowerblue;
+    /* overflow: scroll; */
+    overflow: auto;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  border: solid 1px;
+  display: inline-block;
+
+}
+a{
+    font-size: 20px;
+    color: aqua;
+}
+
+ a:hover{
+    font-size: 30px;
+    background-color: aquamarine;
+    color: black;
+    border: solid 1px;
+} 
+
+a:link{
+    color: aqua;
+}
+

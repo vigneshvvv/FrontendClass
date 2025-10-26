@@ -1,0 +1,69 @@
+h1 {
+    /* color: aqua; */
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 350px;
+}
+
+.sampleDiv{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    /* top: 200px;
+    left: 200px; */
+
+}
+
+.divone{
+    position: absolute;
+    width: 450px;
+    z-index: 3;
+    background-color: aqua;
+}
+.divtwo{
+    position: absolute;
+    width: 350px;
+    top: 20px;
+    background-color: chocolate;
+    z-index: 4;
+}
+
+.divthree{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    background-color: brown;
+    z-index: 3;
+}
+
+.divfour{
+    position: absolute;
+    width: 450px;
+    height: 150px;
+    background-color: darkgray;
+    z-index: 5;
+    top: 30px;
+}
+
+.divfive{
+    position: absolute;
+    width: 450px;
+    height: 150px;
+    background-color: chartreuse;
+    top: 60px;
+    z-index: 8;
+}
+
+.h1s{
+    position: absolute;
+    z-index: 9;
+}
+
+.sampleimg{
+    float: right;
+    /* float: none; */
+    width: 100px;
+    height: 100px;
+}
+

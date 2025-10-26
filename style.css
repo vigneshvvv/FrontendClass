@@ -6,3 +6,13 @@ h2{
     text-align: center;
     color: cadetblue;
 }
+
+ul{
+    list-style-type: none;
+    gap: 20px;
+}
+
+table, th, tr{
+    border: 1px solid;
+    border-collapse: collapse;
+}
